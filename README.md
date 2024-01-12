@@ -1,2 +1,0 @@
-# Ngambis
-Project Colllaboration Application
